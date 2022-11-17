@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a587d0ed-6b08-41b0-b13e-ac7621d5268a" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a587d0ed-6b08-41b0-b13e-ac7621d5268a" name="Changes" comment="домашнее задание по уроку String  выполнено" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668667896762</updated>
-      <workItem from="1668667899064" duration="12376000" />
+      <workItem from="1668667899064" duration="12808000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1668668155664</created>
@@ -65,7 +62,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668668155664</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="домашнее задание по уроку String  выполнено">
+      <created>1668690055224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668690055224</updated>
+    </task>
+    <task id="LOCAL-00003" summary="домашнее задание по уроку String  выполнено">
+      <created>1668690167651</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668690167651</updated>
+    </task>
+    <task id="LOCAL-00004" summary="домашнее задание по уроку String  выполнено">
+      <created>1668690274024</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668690274024</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="домашнее задание по уроку String  выполнено" />
+    <option name="LAST_COMMIT_MESSAGE" value="домашнее задание по уроку String  выполнено" />
   </component>
 </project>
